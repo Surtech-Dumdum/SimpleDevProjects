@@ -58,7 +58,8 @@ def calculate():
 
 operations = {
     'ADD':add , 'ADDITION':add , 'SUM':add , 'PLUS':add , 
-    'SUB':sub, 'DIFFERENCE':sub , 'MINUS':sub , 'SUBTRACT':sub, 'DIFF':sub, 'LCM':lcm , 
+    'SUB':sub, 'DIFFERENCE':sub , 'MINUS':sub , 'SUBTRACT':sub, 'DIFF':sub, 
+    'LCM':lcm , 
     'HCF':hcf ,
     'PRODUCT':mul, 'MULTIPLICATION':mul, 'MULTIPLY':mul, 'MUL':mul,  
     'DIVISION':div , 'DIV':div ,'DIVIDE':div, 'QUOTIENT':div, 
